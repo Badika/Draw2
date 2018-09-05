@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout  xmlns:android="http://schemas.android.com/apk/res/android"
+   android:layout_width="fill_parent"
+   android:layout_height="wrap_content"
+   android:background="#FFF5E4"
+   android:padding="8dp">
+	 <ImageView
+        android:id="@+id/Image"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:padding="5dp"
+        android:src="@mipmap/happy"
+        android:layout_alignParentRight="true" />
+    <LinearLayout android:id="@+id/Text"
+       android:orientation="vertical"
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:paddingLeft="10dip">
+        <TextView
+         android:id="@+id/Text1"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:textColor="#400AFF"
+         android:textSize="20dip"
+         android:textStyle="italic"
+		 android:text="Main text"
+         />
+        <TextView
+         android:id="@+id/Text2"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:textSize="14dip"
+         android:textColor="#A48AFF"
+         android:paddingLeft="60dip"
+		 android:paddingRight="50dip"
+		 android:text="Teeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeext"
+         />
+    </LinearLayout>
+   
+</RelativeLayout >

@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreePager", "TreePager\TreePager.csproj", "{1925FCCB-219D-4CD5-8597-EE252320AEEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1925FCCB-219D-4CD5-8597-EE252320AEEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1925FCCB-219D-4CD5-8597-EE252320AEEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1925FCCB-219D-4CD5-8597-EE252320AEEE}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{1925FCCB-219D-4CD5-8597-EE252320AEEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1925FCCB-219D-4CD5-8597-EE252320AEEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1925FCCB-219D-4CD5-8597-EE252320AEEE}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E90E05BD-DC96-4F2E-89BD-F81DAD44D24A}
+	EndGlobalSection
+EndGlobal

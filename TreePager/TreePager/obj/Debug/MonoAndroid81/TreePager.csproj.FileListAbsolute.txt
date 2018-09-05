@@ -1,0 +1,2 @@
+D:\Projects\TreePager\TreePager\obj\Debug\MonoAndroid81\res.flag
+D:\Projects\TreePager\TreePager\obj\Debug\MonoAndroid81\TreePager.csproj.CoreCompileInputs.cache
